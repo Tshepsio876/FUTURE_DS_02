@@ -107,8 +107,6 @@ The following preprocessing steps were performed using Power Query:
 ## Author
 Tshepiso Modika
 
-Data Science & Analytics Intern – Future Interns
-
 ---
 
 ## LinkedIn
